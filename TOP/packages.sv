@@ -7,9 +7,6 @@ package counter_pkg;
   import uvm_pkg::*;
   `include "uvm_macros.svh"
 
-  // Interface
-  `include "count_if.sv"
-
   // Transaction
   `include "counter_trans.sv"
 
